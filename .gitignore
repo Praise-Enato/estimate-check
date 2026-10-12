@@ -1,0 +1,5 @@
+/target
+*.doc
+*.docx
+.DS_Store
+VIDEO_SCRIPT.md

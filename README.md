@@ -6,7 +6,7 @@ Estimate Check is a small command-line program for checking how good I am at est
 
 I wrote this software because estimating how long my work will take is a habit I am trying to improve. Building a tool for it gave me a real reason to learn Rust's ownership rules: the list of tasks is borrowed with `&` when it is only read, and with `&mut` when a new task is added.
 
-[Software Demo Video](PASTE_YOUR_VIDEO_LINK_HERE)
+[Software Demo Video](https://www.loom.com/share/d7cf8c365a6e461ea8ac0814ff391f41)
 
 # Development Environment
 
